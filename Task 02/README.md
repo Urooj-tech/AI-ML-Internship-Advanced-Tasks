@@ -55,6 +55,6 @@ The dataset consists of free-text support tickets with two main fields:
 
 ---
 ## 👩‍💻 Author  
-Urooj Fatima  
+**Urooj Fatima**  
 AI/ML Engineering Intern  
 DevelopersHub Corporation  
